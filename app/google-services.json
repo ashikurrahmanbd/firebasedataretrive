@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579603639125",
+    "firebase_url": "https://fir-storeretrivedata.firebaseio.com",
+    "project_id": "fir-storeretrivedata",
+    "storage_bucket": "fir-storeretrivedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579603639125:android:7938b82ae72ed516d0dddc",
+        "android_client_info": {
+          "package_name": "com.example.firebasestoreretrivedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579603639125-f3illugggvcr0mnfrtkl89t6pmoqeial.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasestoreretrivedata",
+            "certificate_hash": "515bf89ee0abaed83e44a6545d69e798ff8e5864"
+          }
+        },
+        {
+          "client_id": "579603639125-6q5mef5srpk03v67230js2gn7p26dc3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtmTYVBH_quN_s5H3FBPeAc3DW2IZmJEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579603639125-6q5mef5srpk03v67230js2gn7p26dc3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
